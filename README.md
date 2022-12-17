@@ -8,6 +8,12 @@ Vivado_Project :--> Contain Complete Project as ZIP File.
   --  LinkedIn : https://www.linkedin.com/in/lucky8882041/
     
     
+ *Software,Language and FPGA Board Used In this Project
+ * VERILOG HDL
+ * Xilinx VIVADO 2022.2
+ * BASYS3 FPGA Board
+
+
 FFT Hardware Accelerater using CORDIC Algorithm and FPGA Board
 
 In This Project a FFT Accelerater using CORDIC Algorithms has been Created using Verilog Language and a FPGA Board (XILINX BASYS3).
@@ -25,3 +31,7 @@ CORDIC will allow us to Calculate Fixed Point Cartision Rotation Very Fast, By u
 By Calculating Xcos(Theta) and Ysin(Theta) for Real (x) and Imaginary(Y) Inputs.
 
 In this Project I have Used VIO (Virtual Input and Output) IP of XILINX 2022.2 Software to Give Input and ILA (Integrated Logic Analyzer) To Observe Output.
+
+
+## Results
+8-Point FFT can be Calculated with Error Range From 0.20% to 0.25%
