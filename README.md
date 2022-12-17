@@ -10,7 +10,7 @@ Vivado_Project :--> Contain Complete Project as ZIP File.
   --  LinkedIn : https://www.linkedin.com/in/lucky8882041/
     
     
- *Software,Language and FPGA Board Used In this Project
+ ### Software,Language and FPGA Board Used In this Project
  * VERILOG HDL
  * Xilinx VIVADO 2022.2
  * BASYS3 FPGA Board
