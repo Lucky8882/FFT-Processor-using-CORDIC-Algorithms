@@ -18,7 +18,7 @@ Output is also Having 16 Outputs, Same 8 for real and 8 for Imaginary and Every 
 As we all Know There will be Some Complex Multiplications and additions in FFT DIT/DIF Algorithms and this task utilize a Large amount of Resources from Any FPGA Board
 and it will not be possible to multiply real numbers in some FPGA Board like BASYS3 Board and for Simpliflication we have used a efficient Algorithm Known as CORDIC 
 
-# CORDIC Coordinate Rotation Digital Computer
+## CORDIC Coordinate Rotation Digital Computer
 
 CORDIC will allow us to Calculate Fixed Point Cartision Rotation Very Fast, By using Already Declared Lookup Table. It will Give Twiddle factor for This project
 By Calculating Xcos(Theta) and Ysin(Theta) for Real (x) and Imaginary(Y) Inputs.
