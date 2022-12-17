@@ -4,7 +4,7 @@ Sources & TestBench :--> Contains Verilog Files of Modules and their Respective 
 
 Vivado_Project :--> Contain Complete Project as ZIP File.
 
-#### For Any Query and Help Please Contact on Below :
+#### For Any Query and Help Please Contact with Below Details :
 
 ### Created By :   LUCKY (lucky8882041@gmail.com) 
   --  LinkedIn : https://www.linkedin.com/in/lucky8882041/
