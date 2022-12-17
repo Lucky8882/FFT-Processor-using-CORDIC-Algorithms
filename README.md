@@ -37,3 +37,7 @@ In this Project I have Used VIO (Virtual Input and Output) IP of XILINX 2022.2 S
 
 ## Results
 8-Point FFT can be Calculated with Error Range From 0.20% to 0.25%
+
+
+![image](https://user-images.githubusercontent.com/35170092/208237726-29d821a1-65f7-4583-95f8-ec03d4f33dde.png)
+
