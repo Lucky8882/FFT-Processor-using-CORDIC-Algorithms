@@ -1,5 +1,12 @@
 # FFT_Accelerater_CORDIC
 
+Sources & TestBench :--> Contains Verilog Files of Modules and their Respective TestBenches.
+Vivado_Project :--> Contain Complete Project as ZIP File
+
+## Created By :   LUCKY (lucky8882041@gmail.com) 
+    LinkedIn : https://www.linkedin.com/in/lucky8882041/
+    
+    
 FFT Hardware Accelerater using CORDIC Algorithm and FPGA Board
 
 In This Project a FFT Accelerater using CORDIC Algorithms has been Created using Verilog Language and a FPGA Board (XILINX BASYS3).
