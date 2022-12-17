@@ -22,7 +22,7 @@ In This Project a FFT Accelerater using CORDIC Algorithms has been Created using
 a 8-Point FFT can be Performed, it Takes 16 inputs, 8 inputs for Real Part and Another 8 Inputs for Imaginary Part.
 Each Input are of 16-bit .
 
-Output is also Having 16 Outputs, Same 8 for real and 8 for Imaginary and Every Input and Output will be Represented with 16 bits.
+Output is also Having 2 Outputs each of 128 bits, 1 for real and 1 for Imaginary we can observe our 16 bit Output From Given HEX Output.
 
 As we all Know There will be Some Complex Multiplications and additions in FFT DIT/DIF Algorithms and this task utilize a Large amount of Resources from Any FPGA Board
 and it will not be possible to multiply real numbers in some FPGA Board like BASYS3 Board and for Simpliflication we have used a efficient Algorithm Known as CORDIC 
