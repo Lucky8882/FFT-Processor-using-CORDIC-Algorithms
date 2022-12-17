@@ -1,9 +1,9 @@
 # FFT_Accelerater_CORDIC
 
 Sources & TestBench :--> Contains Verilog Files of Modules and their Respective TestBenches.
-Vivado_Project :--> Contain Complete Project as ZIP File
+Vivado_Project :--> Contain Complete Project as ZIP File.
 
-## Created By :   LUCKY (lucky8882041@gmail.com) 
+### Created By :   LUCKY (lucky8882041@gmail.com) 
     LinkedIn : https://www.linkedin.com/in/lucky8882041/
     
     
